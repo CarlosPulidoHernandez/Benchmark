@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: carlo
+Build-Jdk: 17.0.7
+Created-By: Apache Maven Bundle Plugin
+Bnd-LastModified: 1695288730482
+Bundle-License: http://www.gnu.org/licenses/lgpl-3.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: java-util
+Bundle-SymbolicName: com.raffaeleconforti.java-util
+Bundle-Version: 1.0.20180320
+Export-Package: com.raffaeleconforti.classloading;version="1.0.20180320"
+Tool: Bnd-2.1.0.20130426-122213
+
